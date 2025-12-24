@@ -1,11 +1,15 @@
 # AE_NPE
 
-This repository serves to provide a sample simulation file for the modelling approach detailed in the source article. Video animations of the simulated physical fields in the 3D case are provided as supplementary material for the source article.
+This repository serves to provide a sample simulation file for the modelling approach detailed in the journal publication titled "[Formulation of acoustoelectric phenomena in ionic media via the Nernst–Planck equation](https://iopscience.iop.org/article/10.1088/1361-6560/ae241b)". Video animations of the simulated physical fields in the 3D case are provided as supplementary material for the article.
 <br><br>
 
 ## Sample Simulation File
 
-The COMSOL®-based simulation file will be made available on this repository upon publication of the work. Should you require early access to the file, please contact the author at oonwy@connect.hku.hk.
+A COMSOL®-based simulation file for the [2D simulation case in NaCl solution](/Example_2D_NaCl.mph) is provided for reference.
+
+The simulated field data is cleared to meet the filesize limit on GitHub. To view the simulated fields, please run the simulations sequentially as follow:
+- (1) "Compute" Study 1, THEN
+- (2) "Compute" Study 2.
 <br><br>
 
 ## Video Files for 3D Simulation Case
