@@ -1,6 +1,6 @@
 # AE_NPE
 
-This repository serves to provide a sample simulation file for the modelling approach detailed in the journal publication titled "[Formulation of acoustoelectric phenomena in ionic media via the Nernst–Planck equation](https://iopscience.iop.org/article/10.1088/1361-6560/ae241b)". Video animations of the simulated physical fields in the 3D case are provided as supplementary material for the article.
+This repository serves to provide a sample simulation file for the modelling approach detailed in the journal publication titled "[Formulation of acoustoelectric phenomena in ionic media via the Nernst–Planck equation](https://iopscience.iop.org/article/10.1088/1361-6560/ae241b)" (DOI 10.1088/1361-6560/ae241b). Video animations of the simulated physical fields in the 3D case are provided as supplementary material for the article.
 <br><br>
 
 ## Sample Simulation File
